@@ -1,0 +1,20 @@
+body{
+    background-color: #FFFFE0;
+}
+img{
+    width: 20%;
+    height: 20%;
+    margin: 5px;
+}
+p{
+    font-size: 27px;
+}
+#aciertos{
+    color: green;
+    text-decoration: underline;
+    font-size: 45px;
+}
+#fallos{
+    color:red;
+    font-style: italic;
+}
